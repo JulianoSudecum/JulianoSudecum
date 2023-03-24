@@ -17,4 +17,3 @@
     <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoSudecum)](https://github.com/anuraghazra/github-readme-stats)
