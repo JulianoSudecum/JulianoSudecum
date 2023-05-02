@@ -1,6 +1,6 @@
 
 ### Hello world!! 🌎
-## I'm Juliano and welcome to my GitHub 🧑‍💻
+## Welcome to my GitHub 🧑‍💻
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianoss_/)
