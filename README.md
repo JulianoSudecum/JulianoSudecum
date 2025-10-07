@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianosudecum/)
   [![Portfolio](https://img.shields.io/badge/-Portfólio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-julianosudecum-alpha.vercel.app)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianosudecum525@gmail.com)
-  [![Phone](https://img.shields.io/badge/-Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5551996856180)
+  [![Phone](https://img.shields.io/badge/-Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996856180)
 
 </div>
 
